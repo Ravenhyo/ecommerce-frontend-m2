@@ -7,8 +7,18 @@ body {
     object-fit: cover;
 }
 
+.card {
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.03);
+}
+
 footer {
     margin-top: 50px;
+    font-size: 0.9rem;
+
 }
 .navbar-brand {
     font-weight: bold;
