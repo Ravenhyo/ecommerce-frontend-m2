@@ -1,6 +1,6 @@
 # Glow Beauty Store
 
-Proyecto MVP de e-commerce frontend creado para el Módulo 2.
+Proyecto desarrollado como MVP frontend para el Módulo 2.
 
 ## Descripción
 
