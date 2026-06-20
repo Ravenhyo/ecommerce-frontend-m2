@@ -10,3 +10,6 @@ body {
 footer {
     margin-top: 50px;
 }
+.navbar-brand {
+    font-weight: bold;
+}
