@@ -1,14 +1,14 @@
 # Glow Beauty Store
 
-Proyecto desarrollado como MVP frontend para el Módulo 2.
+Proyecto de e-commerce frontend para el Módulo 2.
 
 ## Descripción
 
-Glow Beauty Store es una tienda ficticia de maquillaje y skincare. El sitio permite visualizar productos, acceder al detalle de un producto y simular la acción de agregar productos al carrito.
+Glow Beauty Store es una tienda ficticia de maquillaje y skincare. Permite ver productos, revisar el detalle de un producto y simular un carrito de compras.
 
-## Tecnologías utilizadas
+## Tecnologías usadas
 
-- HTML5 semántico
+- HTML5
 - Bootstrap 5
 - CSS3
 - JavaScript
@@ -22,12 +22,16 @@ Glow Beauty Store es una tienda ficticia de maquillaje y skincare. El sitio perm
 
 ## Funcionalidades
 
-- Cards de productos
-- Botón "Agregar al carrito"
-- Contador de carrito en la navbar
-- Uso de localStorage
-- Diseño responsivo
+- Productos en cards.
+- Botón para agregar al carrito.
+- Contador del carrito en la barra de navegación.
+- Uso de localStorage.
+- Diseño responsivo para celular y computador.
 
 ## Repositorio
 
-Enlace al repositorio: pegar aquí el link de GitHub
+(https://github.com/Ravenhyo/ecommerce-frontend-m2)
+
+## Autora
+
+Noemí Muñoz.
